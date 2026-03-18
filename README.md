@@ -37,8 +37,8 @@ make
 
 ### Access
 
-- Website: https://<login>.42.fr
-- WordPress Admin: https://<login>.42.fr/wp-admin
+- Website: https://mprazere.42.fr
+- WordPress Admin: https://mprazere.42.fr/wp-admin
 
 ---
 
