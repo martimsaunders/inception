@@ -1,5 +1,5 @@
 NAME = inception
-COMPOSE = docker-compose -f srcs/docker-compose.yml
+COMPOSE = docker compose -f srcs/docker-compose.yml
 LOGIN = $(shell grep '^LOGIN=' srcs/.env | cut -d '=' -f2)
 
 DATA_PATH = /home/$(LOGIN)/data
